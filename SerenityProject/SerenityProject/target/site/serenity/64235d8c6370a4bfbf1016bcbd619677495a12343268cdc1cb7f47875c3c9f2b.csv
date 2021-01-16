@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Rest API assignment4","This method will validate the user login successfully","SUCCESS","2021-01-16T18:38:44.219094414+05:30[Asia/Kolkata]","0.0","9.19"
+"Rest API assignment4","This method will validate the user login with invalid credentials","SUCCESS","2021-01-16T18:38:53.747670609+05:30[Asia/Kolkata]","0.0","1.17"

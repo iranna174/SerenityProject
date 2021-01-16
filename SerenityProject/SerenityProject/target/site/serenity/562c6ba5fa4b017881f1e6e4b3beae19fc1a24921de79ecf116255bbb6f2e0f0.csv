@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Rest API assignment1","Get republic of india text","SUCCESS","2021-01-16T18:38:44.249961528+05:30[Asia/Kolkata]","0.0","10.05"
+"Rest API assignment1","Get response for invalid country","SUCCESS","2021-01-16T18:38:54.586957205+05:30[Asia/Kolkata]","0.0","5.08"
